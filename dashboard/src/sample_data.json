@@ -1,0 +1,669 @@
+[
+  {
+    "id": 1,
+    "name": "Kim Reilly",
+    "years_of_experience": 15,
+    "skills": [
+      "Waste Management",
+      "Process Optimization"
+    ],
+    "bio": "label supporter, streamer 🇮🇴",
+    "mock_scores": {
+      "crisis": 61.81917101865266,
+      "sustainability": 76.95760050399974,
+      "motivation": 70.72586768043813
+    }
+  },
+  {
+    "id": 2,
+    "name": "Daniel Ruecker",
+    "years_of_experience": 10,
+    "skills": [
+      "Process Optimization",
+      "Supply Chain"
+    ],
+    "bio": "t-shirt advocate",
+    "mock_scores": {
+      "crisis": 99.23926403930355,
+      "sustainability": 59.59885394946356,
+      "motivation": 77.78078675227096
+    }
+  },
+  {
+    "id": 3,
+    "name": "Neil Abshire",
+    "years_of_experience": 5,
+    "skills": [
+      "Team Leadership",
+      "Logistics",
+      "Waste Management",
+      "Supply Chain"
+    ],
+    "bio": "permafrost devotee",
+    "mock_scores": {
+      "crisis": 89.66782276862124,
+      "sustainability": 85.96248049312848,
+      "motivation": 70.07704526901206
+    }
+  },
+  {
+    "id": 4,
+    "name": "Emily Spencer",
+    "years_of_experience": 15,
+    "skills": [
+      "Waste Management",
+      "Team Leadership",
+      "Six Sigma",
+      "OSHA Safety",
+      "Supply Chain"
+    ],
+    "bio": "writer",
+    "mock_scores": {
+      "crisis": 82.17141607103868,
+      "sustainability": 98.1993211179623,
+      "motivation": 95.08793295543417
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sheila Lynch",
+    "years_of_experience": 4,
+    "skills": [
+      "Team Leadership",
+      "OSHA Safety"
+    ],
+    "bio": "daughter supporter",
+    "mock_scores": {
+      "crisis": 66.94485425076911,
+      "sustainability": 67.89764368344143,
+      "motivation": 91.16947726013467
+    }
+  },
+  {
+    "id": 6,
+    "name": "Rebecca Maggio",
+    "years_of_experience": 4,
+    "skills": [
+      "Waste Management",
+      "Logistics",
+      "Process Optimization"
+    ],
+    "bio": "coach, inventor, grad 😓",
+    "mock_scores": {
+      "crisis": 98.87746860254563,
+      "sustainability": 73.46229395689993,
+      "motivation": 85.9330019892114
+    }
+  },
+  {
+    "id": 7,
+    "name": "Norma Anderson",
+    "years_of_experience": 6,
+    "skills": [
+      "Six Sigma",
+      "Logistics",
+      "Supply Chain",
+      "Waste Management"
+    ],
+    "bio": "coach, creator, student",
+    "mock_scores": {
+      "crisis": 78.26727262777555,
+      "sustainability": 86.4086077000586,
+      "motivation": 70.5062950651089
+    }
+  },
+  {
+    "id": 8,
+    "name": "Raymond Corkery",
+    "years_of_experience": 15,
+    "skills": [
+      "Process Optimization",
+      "Supply Chain",
+      "OSHA Safety"
+    ],
+    "bio": "subsidy devotee  🐲",
+    "mock_scores": {
+      "crisis": 79.79946820522261,
+      "sustainability": 54.96411273020393,
+      "motivation": 79.1608826505005
+    }
+  },
+  {
+    "id": 9,
+    "name": "Amber Murphy DDS",
+    "years_of_experience": 11,
+    "skills": [
+      "Supply Chain",
+      "Logistics",
+      "Team Leadership",
+      "Waste Management",
+      "Six Sigma"
+    ],
+    "bio": "palate fan",
+    "mock_scores": {
+      "crisis": 74.68982763063296,
+      "sustainability": 67.85853358715677,
+      "motivation": 71.31825090207997
+    }
+  },
+  {
+    "id": 10,
+    "name": "Christine Ledner I",
+    "years_of_experience": 4,
+    "skills": [
+      "Team Leadership",
+      "Supply Chain",
+      "Logistics",
+      "Process Optimization"
+    ],
+    "bio": "barge devotee, environmentalist ♠️",
+    "mock_scores": {
+      "crisis": 61.145379339842044,
+      "sustainability": 86.15092014041775,
+      "motivation": 79.90761128123005
+    }
+  },
+  {
+    "id": 11,
+    "name": "Inez Gottlieb",
+    "years_of_experience": 2,
+    "skills": [
+      "Logistics",
+      "Supply Chain",
+      "Six Sigma",
+      "Process Optimization"
+    ],
+    "bio": "public speaker, musician",
+    "mock_scores": {
+      "crisis": 97.99663819083688,
+      "sustainability": 82.81726526886742,
+      "motivation": 77.12728594508471
+    }
+  },
+  {
+    "id": 12,
+    "name": "Jon Bernhard",
+    "years_of_experience": 2,
+    "skills": [
+      "Process Optimization",
+      "Logistics",
+      "Waste Management",
+      "OSHA Safety"
+    ],
+    "bio": "recommendation lover",
+    "mock_scores": {
+      "crisis": 70.13853636452025,
+      "sustainability": 65.64916421328836,
+      "motivation": 75.8290325729638
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ignacio Veum-Yost",
+    "years_of_experience": 13,
+    "skills": [
+      "Waste Management",
+      "OSHA Safety",
+      "Supply Chain",
+      "Logistics"
+    ],
+    "bio": "hope devotee  👈🏿",
+    "mock_scores": {
+      "crisis": 75.36160242837245,
+      "sustainability": 70.84390232019226,
+      "motivation": 93.48249490439518
+    }
+  },
+  {
+    "id": 14,
+    "name": "Jordan Wuckert",
+    "years_of_experience": 7,
+    "skills": [
+      "Six Sigma",
+      "Supply Chain",
+      "Waste Management",
+      "OSHA Safety"
+    ],
+    "bio": "interior lover",
+    "mock_scores": {
+      "crisis": 64.02991288963734,
+      "sustainability": 56.688719574188816,
+      "motivation": 70.23215614897558
+    }
+  },
+  {
+    "id": 15,
+    "name": "Genevieve Rice",
+    "years_of_experience": 15,
+    "skills": [
+      "Process Optimization",
+      "Team Leadership"
+    ],
+    "bio": "blogger, filmmaker, parent",
+    "mock_scores": {
+      "crisis": 60.5040998415926,
+      "sustainability": 54.189695970780946,
+      "motivation": 98.1016954334832
+    }
+  },
+  {
+    "id": 16,
+    "name": "Seth Gislason",
+    "years_of_experience": 6,
+    "skills": [
+      "Logistics",
+      "OSHA Safety",
+      "Supply Chain",
+      "Waste Management"
+    ],
+    "bio": "space advocate  🌎",
+    "mock_scores": {
+      "crisis": 65.47172967172739,
+      "sustainability": 69.1068178841661,
+      "motivation": 85.8179687509777
+    }
+  },
+  {
+    "id": 17,
+    "name": "Fannie Blick",
+    "years_of_experience": 2,
+    "skills": [
+      "Six Sigma",
+      "OSHA Safety",
+      "Supply Chain"
+    ],
+    "bio": "scientist, author, designer",
+    "mock_scores": {
+      "crisis": 95.61144069791871,
+      "sustainability": 81.75221753585193,
+      "motivation": 78.53878101122521
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ann Oberbrunner",
+    "years_of_experience": 12,
+    "skills": [
+      "Supply Chain",
+      "Logistics",
+      "Team Leadership",
+      "OSHA Safety",
+      "Waste Management"
+    ],
+    "bio": "singer, public speaker, filmmaker",
+    "mock_scores": {
+      "crisis": 72.16249985022256,
+      "sustainability": 63.289687785565846,
+      "motivation": 85.31153576262219
+    }
+  },
+  {
+    "id": 19,
+    "name": "Ms. Rosa Stark",
+    "years_of_experience": 13,
+    "skills": [
+      "Process Optimization",
+      "Team Leadership",
+      "OSHA Safety",
+      "Waste Management",
+      "Six Sigma"
+    ],
+    "bio": "scientist, creator, author",
+    "mock_scores": {
+      "crisis": 69.77527839195122,
+      "sustainability": 70.7043879055815,
+      "motivation": 89.15493573859445
+    }
+  },
+  {
+    "id": 20,
+    "name": "Leona Boyer",
+    "years_of_experience": 10,
+    "skills": [
+      "Supply Chain",
+      "Team Leadership",
+      "Waste Management",
+      "OSHA Safety",
+      "Logistics"
+    ],
+    "bio": "blogger, geek, patriot",
+    "mock_scores": {
+      "crisis": 65.96087725616182,
+      "sustainability": 63.55775925109204,
+      "motivation": 88.26828089678779
+    }
+  },
+  {
+    "id": 21,
+    "name": "Danny Effertz",
+    "years_of_experience": 5,
+    "skills": [
+      "Logistics",
+      "Supply Chain",
+      "Waste Management"
+    ],
+    "bio": "underpants enthusiast",
+    "mock_scores": {
+      "crisis": 99.42920999741762,
+      "sustainability": 89.47749259328057,
+      "motivation": 79.32397278777854
+    }
+  },
+  {
+    "id": 22,
+    "name": "Sammy Barton PhD",
+    "years_of_experience": 6,
+    "skills": [
+      "OSHA Safety",
+      "Six Sigma",
+      "Waste Management",
+      "Logistics"
+    ],
+    "bio": "self-confidence junkie  🏎️",
+    "mock_scores": {
+      "crisis": 80.23353669412462,
+      "sustainability": 81.95825077126045,
+      "motivation": 86.49002430419283
+    }
+  },
+  {
+    "id": 23,
+    "name": "Ismael Thiel",
+    "years_of_experience": 5,
+    "skills": [
+      "OSHA Safety",
+      "Process Optimization",
+      "Supply Chain"
+    ],
+    "bio": "substitution devotee  😞",
+    "mock_scores": {
+      "crisis": 81.76480716439212,
+      "sustainability": 92.3167400500372,
+      "motivation": 87.7873814447686
+    }
+  },
+  {
+    "id": 24,
+    "name": "Sheldon Waelchi",
+    "years_of_experience": 3,
+    "skills": [
+      "OSHA Safety",
+      "Six Sigma",
+      "Supply Chain"
+    ],
+    "bio": "cemetery lover, artist",
+    "mock_scores": {
+      "crisis": 83.59121050181636,
+      "sustainability": 97.04466644558087,
+      "motivation": 94.24097129839417
+    }
+  },
+  {
+    "id": 25,
+    "name": "Mr. Bernard Zulauf",
+    "years_of_experience": 5,
+    "skills": [
+      "Supply Chain",
+      "Team Leadership",
+      "Logistics",
+      "Process Optimization",
+      "Waste Management"
+    ],
+    "bio": "author, artist, friend 🍉",
+    "mock_scores": {
+      "crisis": 97.35505376433306,
+      "sustainability": 67.08610924359841,
+      "motivation": 85.80436983065186
+    }
+  },
+  {
+    "id": 26,
+    "name": "Mr. Edmond Borer",
+    "years_of_experience": 6,
+    "skills": [
+      "Logistics",
+      "Process Optimization",
+      "Team Leadership"
+    ],
+    "bio": "model, engineer, veteran 🛫",
+    "mock_scores": {
+      "crisis": 79.34807777754017,
+      "sustainability": 56.11086639165356,
+      "motivation": 93.40266489122985
+    }
+  },
+  {
+    "id": 27,
+    "name": "Mrs. Amelia McClure IV",
+    "years_of_experience": 9,
+    "skills": [
+      "Logistics",
+      "OSHA Safety"
+    ],
+    "bio": "intervention enthusiast  🦪",
+    "mock_scores": {
+      "crisis": 64.30812400134289,
+      "sustainability": 83.15929888305665,
+      "motivation": 71.75296525974383
+    }
+  },
+  {
+    "id": 28,
+    "name": "Maria Crooks-D'Amore",
+    "years_of_experience": 12,
+    "skills": [
+      "Six Sigma",
+      "OSHA Safety",
+      "Process Optimization",
+      "Waste Management",
+      "Supply Chain"
+    ],
+    "bio": "pacemaker devotee, entrepreneur",
+    "mock_scores": {
+      "crisis": 98.84730793691455,
+      "sustainability": 74.88731676848002,
+      "motivation": 81.32077288630454
+    }
+  },
+  {
+    "id": 29,
+    "name": "Della Connelly",
+    "years_of_experience": 9,
+    "skills": [
+      "Logistics",
+      "OSHA Safety",
+      "Waste Management"
+    ],
+    "bio": "transom junkie, entrepreneur",
+    "mock_scores": {
+      "crisis": 91.6164658941429,
+      "sustainability": 54.73383759414626,
+      "motivation": 70.6124329316685
+    }
+  },
+  {
+    "id": 30,
+    "name": "Alonzo Grady",
+    "years_of_experience": 6,
+    "skills": [
+      "Supply Chain",
+      "Logistics",
+      "Process Optimization",
+      "OSHA Safety",
+      "Waste Management"
+    ],
+    "bio": "environmentalist, model, student",
+    "mock_scores": {
+      "crisis": 71.36661829037368,
+      "sustainability": 86.61308437653015,
+      "motivation": 99.3247151131896
+    }
+  },
+  {
+    "id": 31,
+    "name": "Dr. Spencer DuBuque",
+    "years_of_experience": 14,
+    "skills": [
+      "Six Sigma",
+      "Waste Management",
+      "Team Leadership",
+      "Logistics"
+    ],
+    "bio": "musician, author",
+    "mock_scores": {
+      "crisis": 80.7936908797524,
+      "sustainability": 91.24206903203529,
+      "motivation": 85.01032087348607
+    }
+  },
+  {
+    "id": 32,
+    "name": "Madeline Bins",
+    "years_of_experience": 9,
+    "skills": [
+      "Process Optimization",
+      "Waste Management",
+      "Six Sigma",
+      "OSHA Safety"
+    ],
+    "bio": "strait advocate",
+    "mock_scores": {
+      "crisis": 82.41532237865489,
+      "sustainability": 63.713417238596115,
+      "motivation": 94.54300493790768
+    }
+  },
+  {
+    "id": 33,
+    "name": "Mr. Lucas Kris",
+    "years_of_experience": 9,
+    "skills": [
+      "Process Optimization",
+      "Team Leadership",
+      "Logistics",
+      "Six Sigma",
+      "Supply Chain"
+    ],
+    "bio": "numeric supporter  🚕",
+    "mock_scores": {
+      "crisis": 62.449953027407744,
+      "sustainability": 55.15989623665164,
+      "motivation": 92.51136140940952
+    }
+  },
+  {
+    "id": 34,
+    "name": "Darren Koepp",
+    "years_of_experience": 12,
+    "skills": [
+      "OSHA Safety",
+      "Waste Management",
+      "Logistics",
+      "Six Sigma",
+      "Process Optimization"
+    ],
+    "bio": "public speaker, film lover, writer 🦡",
+    "mock_scores": {
+      "crisis": 92.44144162535245,
+      "sustainability": 69.53149175539,
+      "motivation": 76.12907363321416
+    }
+  },
+  {
+    "id": 35,
+    "name": "Brent Monahan",
+    "years_of_experience": 9,
+    "skills": [
+      "Team Leadership",
+      "OSHA Safety"
+    ],
+    "bio": "designer, artist, person",
+    "mock_scores": {
+      "crisis": 73.1726734991918,
+      "sustainability": 72.76667044091994,
+      "motivation": 79.73729009247624
+    }
+  },
+  {
+    "id": 36,
+    "name": "Devin Olson",
+    "years_of_experience": 4,
+    "skills": [
+      "Team Leadership",
+      "Waste Management",
+      "Logistics",
+      "Supply Chain",
+      "OSHA Safety"
+    ],
+    "bio": "writer, blogger, film lover",
+    "mock_scores": {
+      "crisis": 96.02027386881038,
+      "sustainability": 69.88377908879532,
+      "motivation": 87.64088724801519
+    }
+  },
+  {
+    "id": 37,
+    "name": "Tom Macejkovic",
+    "years_of_experience": 2,
+    "skills": [
+      "Supply Chain",
+      "Waste Management"
+    ],
+    "bio": "film lover, filmmaker, environmentalist 🤚🏾",
+    "mock_scores": {
+      "crisis": 72.4984508795111,
+      "sustainability": 88.91081334916623,
+      "motivation": 82.84118679689901
+    }
+  },
+  {
+    "id": 38,
+    "name": "Moses Littel",
+    "years_of_experience": 2,
+    "skills": [
+      "Supply Chain",
+      "Process Optimization",
+      "OSHA Safety",
+      "Logistics"
+    ],
+    "bio": "bump advocate  📏",
+    "mock_scores": {
+      "crisis": 90.70382351430914,
+      "sustainability": 73.66447010174636,
+      "motivation": 70.89532696620117
+    }
+  },
+  {
+    "id": 39,
+    "name": "Trevor Botsford",
+    "years_of_experience": 9,
+    "skills": [
+      "Team Leadership",
+      "Supply Chain",
+      "Logistics",
+      "OSHA Safety"
+    ],
+    "bio": "film lover, entrepreneur, public speaker 🇸🇰",
+    "mock_scores": {
+      "crisis": 62.488782277603406,
+      "sustainability": 99.53852467403394,
+      "motivation": 78.45246508772085
+    }
+  },
+  {
+    "id": 40,
+    "name": "Miss Charlotte Larson",
+    "years_of_experience": 13,
+    "skills": [
+      "OSHA Safety",
+      "Process Optimization"
+    ],
+    "bio": "crocodile supporter, friend 🪐",
+    "mock_scores": {
+      "crisis": 87.25336958098165,
+      "sustainability": 98.11741377771409,
+      "motivation": 89.40127906251851
+    }
+  }
+]
